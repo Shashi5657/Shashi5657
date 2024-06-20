@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">A passionate and driven fresher with a knack for coding and a love for problem-solving. <br>My skill set encompasses a wide range of technologies including HTML, CSS, JavaScript, React.js, Java, Spring Boot, Microservices, SQL, MySQL, and Git.<br>If you're looking for a dedicated and versatile developer to join your team, I'd love to connect.<br> Let's build something great together!</p>
+<p align="left">Certified Frontend Developer who is expertise in crafting dynamic and responsive user interfaces using a robust MERN stack 
+- React.js, MongoDB, Express.js, and Node.js. Proficient in JavaScript and TypeScript, with a focus on API design and 
+optimization. Skilled in implementing Redux for efficient state management, achieving a 25% reduction in application size. 
+Specialized in React JS, contributing to a 15% boost in development productivity. </p>
 
 ###
 
