@@ -1,84 +1,159 @@
-<h1 align="left">👋 Hi, I'm Shashidhar Sangepu</h1>
+<!-- ========================= -->
+<!--      HERO SECTION        -->
+<!-- ========================= -->
 
-###
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#58a6ff">Shashidhar Sangepu</span>
+</h1>
 
-<p align="left">I'm a Full Stack Developer specializing in MERN Stack, React, Next.js,
-Docker, and modern web technologies.
+<h3 align="center">
+  🚀 Full Stack Developer | 🤖 AI & System Design Enthusiast | 💻 MERN & Next.js
+</h3>
 
-- 🌱 Currently learning advanced system design
-- 💼 2+ years experience
-- 🚀 Building scalable products
-- 📫 Reach me on LinkedIn</p>
+<p align="center">
+  Building scalable, high-performance web products with clean architecture & modern tooling.
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%7C+React+%7C+Docker;Learning+System+Design+%26+AI;Turning+Ideas+into+Products" />
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+<!-- ========================= -->
+<!--     AI / JARVIS BRAND     -->
+<!-- ========================= -->
 
-<p align="left">Certified Frontend Developer who is expertise in crafting dynamic and responsive user interfaces using a robust MERN stack 
-- React.js, MongoDB, Express.js, and Node.js. Proficient in JavaScript and TypeScript, with a focus on API design and 
-optimization. Skilled in implementing Redux for efficient state management, achieving a 25% reduction in application size. 
-Specialized in React JS, contributing to a 15% boost in development productivity. </p>
+<h2 align="center">🤖 Personal AI System — J.A.R.V.I.S Mode</h2>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+Neural+Systems...;Loading+Full+Stack+Modules...;System+Design+%7C+AI+%7C+Scalability;Hello+Sir%2C+All+Systems+Online+%E2%9C%94" />
+</p>
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <strong>J.A.R.V.I.S</strong> → <i>Just A Rather Very Intelligent System</i>
+</p>
 
-###
+<p align="center">
+  ⚙️ Designing intelligent systems • 🧠 Optimizing architecture • 🚀 Automating workflows
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Driven%20Mindset-Enabled-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Learning-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production%20Ready-Code-00C853?style=for-the-badge"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashi5657&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashi5657&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shashi5657&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<!-- ========================= -->
+<!--      ABOUT ME             -->
+<!-- ========================= -->
 
-###
+## 🧠 About Me
 
-<div align="center">
-  <img height="234" src="https://c.tenor.com/I3hbtxPLUsIAAAAC/tenor.gif"  />
-</div>
+- 💼 **2+ years** of professional development experience  
+- 🧩 Strong in **Frontend Architecture & Scalable APIs**
+- 🌱 Currently learning **Advanced System Design & AI Integrations**
+- ⚙️ Love **clean code, performance optimization & DX**
+- 🚀 Passionate about building **real-world, production-ready systems**
 
-###
+> Certified Frontend Developer with strong expertise in the **MERN Stack**  
+> Proficient in **JavaScript & TypeScript**, API design, and optimization.  
+> Implemented **Redux & React Query**, reducing bundle size by **25%** and boosting productivity by **15%**.
 
-<div align="left">
+---
+
+<!-- ========================= -->
+<!--     CORE SKILLS GRID     -->
+<!-- ========================= -->
+
+## 🧩 Core Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,docker,git&theme=dark" />
+</p>
+
+<p align="center">
+  <kbd>Frontend Architecture</kbd>
+  <kbd>Backend APIs</kbd>
+  <kbd>Scalable Systems</kbd>
+  <kbd>Performance Optimization</kbd>
+  <kbd>Clean Code</kbd>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--     AI & SYSTEM THINKING -->
+<!-- ========================= -->
+
+## 🤖 AI & System Design Mindset
+
+🧠 I don’t just write code — I **design systems**
+
+- 🏗️ Thinking in **modules, services & contracts**
+- 📈 Designing for **scale, performance & maintainability**
+- 🔐 Strong focus on **authentication, security & data flow**
+- 🤖 Exploring **AI-assisted developer workflows**
+- 🧪 Learning by building **real-world architectures**
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif" height="180"/>
+</p>
+
+---
+<!-- ========================= -->
+<!--     ENGINEERING METRICS  -->
+<!-- ========================= -->
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashi5657&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi5657&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shashi5657&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--     CONTRIBUTION GRAPH   -->
+<!-- ========================= -->
+
+## 🧬 Contribution Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi5657&theme=github-compact&hide_border=true" />
+</p>
+
+
+---
+
+<!-- ========================= -->
+<!--     CONNECT WITH ME      -->
+<!-- ========================= -->
+
+## 🌐 Let’s Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shashidharsangepu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="sangepushashidhar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:sangepushashidhar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/mr.villain29/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://wa.me/918639439876" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+⚡ <i>"Build systems today that scale tomorrow."</i>
+</p>
