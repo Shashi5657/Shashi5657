@@ -21,17 +21,17 @@
 ---
 
 <!-- ========================= -->
-<!--     AI / JARVIS BRAND     -->
+<!--     I.R.A-VERSE BRAND    -->
 <!-- ========================= -->
 
-<h2 align="center">🤖 Personal AI System — J.A.R.V.I.S Mode</h2>
+<h2 align="center">🤖 Personal AI System — I.R.A-VERSE Mode</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+Neural+Systems...;Loading+Full+Stack+Modules...;System+Design+%7C+AI+%7C+Scalability;Hello+Sir%2C+All+Systems+Online+%E2%9C%94" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+I.R.A-VERSE...;Loading+Intelligent+Systems...;AI+%7C+System+Design+%7C+Scalability;All+Modules+Operational+%E2%9C%94" />
 </p>
 
 <p align="center">
-  <strong>J.A.R.V.I.S</strong> → <i>Just A Rather Very Intelligent System</i>
+  <strong>I.R.A-VERSE</strong> → <i>Intelligent Reasoning & Architecture Verse</i>
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI--Driven%20Mindset-Enabled-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-Learning-7C4DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Production%20Ready-Code-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI--Driven%20Thinking-Enabled-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Architecture-Focused-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalable%20Design-First-00C853?style=for-the-badge"/>
 </p>
 
 ---
