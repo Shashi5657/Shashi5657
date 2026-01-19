@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Hi, I'm Shashi...<br>And I'm a Passionate<br>Full Stack Developer</p>
+<p align="left">I'm a Full Stack Developer specializing in MERN Stack, React, Next.js,
+Docker, and modern web technologies.
+
+- 🌱 Currently learning advanced system design
+- 💼 2+ years experience
+- 🚀 Building scalable products
+- 📫 Reach me on LinkedIn</p>
 
 ###
 
