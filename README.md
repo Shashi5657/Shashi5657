@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#58a6ff">Shashidhar Sangepu</span>
+  👋 Hi, I'm <span>Shashidhar Sangepu</span>
 </h1>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%7C+React+%7C+Docker;Learning+System+Design+%26+AI;Turning+Ideas+into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%7C+React+%7C+Docker;Learning+System+Design+%26+AI;Turning+Ideas+into+Products" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 <h2 align="center">🤖 Personal AI System — I.R.A-VERSE Mode</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+I.R.A-VERSE...;Loading+Intelligent+Systems...;AI+%7C+System+Design+%7C+Scalability;All+Modules+Operational+%E2%9C%94" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+I.R.A-VERSE...;Loading+Intelligent+Systems...;AI+%7C+System+Design+%7C+Scalability;All+Modules+Operational+✔" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI--Driven%20Thinking-Enabled-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI--Driven%20Thinking-Enabled-0ff?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/System%20Architecture-Focused-7C4DFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scalable%20Design-First-00C853?style=for-the-badge"/>
 </p>
@@ -103,6 +103,7 @@
 </p>
 
 ---
+
 <!-- ========================= -->
 <!--     ENGINEERING METRICS  -->
 <!-- ========================= -->
@@ -127,9 +128,8 @@
 ## 🧬 Contribution Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi5657&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi5657&theme=github-dark&hide_border=true" />
 </p>
-
 
 ---
 
@@ -141,16 +141,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashidharsangepu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sangepushashidhar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.instagram.com/mr.villain29/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://wa.me/918639439876" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
 
