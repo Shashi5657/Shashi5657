@@ -1,97 +1,159 @@
-<!-- Header -->
-<div align="center">
+<!-- ========================= -->
+<!--      HERO SECTION        -->
+<!-- ========================= -->
 
-# Hi, I'm Shashidhar Sangepu 👋
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#58a6ff">Shashidhar Sangepu</span>
+</h1>
 
-**Full Stack Developer · MERN & Next.js · System Design**
+<h3 align="center">
+  🚀 Full Stack Developer | 🤖 AI & System Design Enthusiast | 💻 MERN & Next.js
+</h3>
 
-*Building scalable, production-ready web systems from Hyderabad, India 🇮🇳*
+<p align="center">
+  Building scalable, high-performance web products with clean architecture & modern tooling.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shashis--portfolio.netlify.app-00e5ff?style=flat-square&logo=netlify&logoColor=white)](https://shashis-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashidharsangepu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidharsangepu/)
-[![Email](https://img.shields.io/badge/Email-sangepushashidhar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangepushashidhar@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918639439876)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Full Stack Developer with **2+ years** of experience building scalable web systems
-- 🏗️ Specialised in **React, Next.js, Node.js, and TypeScript**
-- ⚡ Reduced bundle size by **25%** and improved team productivity by **15%** via Redux & React Query
-- 📚 Currently deep-diving into **System Design, AI integrations & LLM APIs**
-- 📍 Based in **Hyderabad, India** — open to remote opportunities
-- ✅ **Available** for full-time roles, freelance projects & collaborations
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Next.js+%7C+React+%7C+Docker;Learning+System+Design+%26+AI;Turning+Ideas+into+Products" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ========================= -->
+<!--     I.R.A-VERSE BRAND    -->
+<!-- ========================= -->
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<h2 align="center">🤖 Personal AI System — I.R.A-VERSE Mode</h2>
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+I.R.A-VERSE...;Loading+Intelligent+Systems...;AI+%7C+System+Design+%7C+Scalability;All+Modules+Operational+%E2%9C%94" />
+</p>
 
-**DevOps & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<p align="center">
+  <strong>I.R.A-VERSE</strong> → <i>Intelligent Reasoning & Architecture Verse</i>
+</p>
 
----
+<p align="center">
+  ⚙️ Designing intelligent systems • 🧠 Optimizing architecture • 🚀 Automating workflows
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shashidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashi5657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=64ffda&text_color=cdd9e5)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi5657&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=cdd9e5)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Driven%20Thinking-Enabled-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Architecture-Focused-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalable%20Design-First-00C853?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ========================= -->
+<!--      ABOUT ME             -->
+<!-- ========================= -->
 
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| 🧠 **Next.js Master** | Structured Next.js reference covering SSR, SSG, App Router & production patterns | Next.js, JS | [GitHub](https://github.com/Shashi5657/Nextjs-Master) |
-| ⚛️ **React Master** | Core-to-advanced React concepts — hooks, context, custom hooks & architecture patterns | React, JS | [GitHub](https://github.com/Shashi5657/React_Master) |
-| 📝 **Notes App** | Full-featured notes manager with create, edit, delete & search | React, CRUD | [GitHub](https://github.com/Shashi5657/notes-app-react) |
-| ⏱️ **Pomodoro Timer** | Productivity timer with custom intervals & session tracking | React, JS | [GitHub](https://github.com/Shashi5657/Pomodoro-Timer) |
-| 🎮 **Tic-Tac-Toe** | Two-player game with win detection and draw handling | React, Hooks | [GitHub](https://github.com/Shashi5657/tic-tac-toe) |
-| 👤 **React Portfolio** | Personal developer portfolio deployed on Netlify | React | [GitHub](https://github.com/Shashi5657/React-Portfolio) · [Live](https://shashis-portfolio.netlify.app) |
+## 🧠 About Me
 
----
+- 💼 **2+ years** of professional development experience  
+- 🧩 Strong in **Frontend Architecture & Scalable APIs**
+- 🌱 Currently learning **Advanced System Design & AI Integrations**
+- ⚙️ Love **clean code, performance optimization & DX**
+- 🚀 Passionate about building **real-world, production-ready systems**
 
-## 📈 Quick Stats
-
-| | |
-|---|---|
-| 💼 Experience | 2+ Years |
-| 📦 Public Repos | 75+ |
-| ⚡ Bundle Reduction achieved | 25% |
-| 📍 Location | Hyderabad, India |
-| 🟢 Status | Open to Opportunities |
+> Certified Frontend Developer with strong expertise in the **MERN Stack**  
+> Proficient in **JavaScript & TypeScript**, API design, and optimization.  
+> Implemented **Redux & React Query**, reducing bundle size by **25%** and boosting productivity by **15%**.
 
 ---
 
-<div align="center">
+<!-- ========================= -->
+<!--     CORE SKILLS GRID     -->
+<!-- ========================= -->
 
-*"I don't just build features — I build systems."*
+## 🧩 Core Engineering Stack
 
-**Let's connect and build something great together!**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,docker,git&theme=dark" />
+</p>
 
-</div>
+<p align="center">
+  <kbd>Frontend Architecture</kbd>
+  <kbd>Backend APIs</kbd>
+  <kbd>Scalable Systems</kbd>
+  <kbd>Performance Optimization</kbd>
+  <kbd>Clean Code</kbd>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--     AI & SYSTEM THINKING -->
+<!-- ========================= -->
+
+## 🤖 AI & System Design Mindset
+
+🧠 I don’t just write code — I **design systems**
+
+- 🏗️ Thinking in **modules, services & contracts**
+- 📈 Designing for **scale, performance & maintainability**
+- 🔐 Strong focus on **authentication, security & data flow**
+- 🤖 Exploring **AI-assisted developer workflows**
+- 🧪 Learning by building **real-world architectures**
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif" height="180"/>
+</p>
+
+---
+<!-- ========================= -->
+<!--     ENGINEERING METRICS  -->
+<!-- ========================= -->
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashi5657&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi5657&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shashi5657&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--     CONTRIBUTION GRAPH   -->
+<!-- ========================= -->
+
+## 🧬 Contribution Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi5657&theme=github-compact&hide_border=true" />
+</p>
+
+
+---
+
+<!-- ========================= -->
+<!--     CONNECT WITH ME      -->
+<!-- ========================= -->
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashidharsangepu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sangepushashidhar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mr.villain29/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/918639439876" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+⚡ <i>"Build systems today that scale tomorrow."</i>
+</p>
